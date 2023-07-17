@@ -1,0 +1,56 @@
+Resource Index:
+Suggested Resources for the Summer School
+Pre-Requisites
+Python Programmingory from github
+https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks
+
+[Open Access Resource] Linear Algebra
+https://learn.qiskit.org/summer-school/2022/introduction-linear-algebra-prerequisite-mathematics-circuit-composition
+
+[Open Access Resource] Matrix Multiplication
+https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/matrix-multiplication-intro
+
+Quantum Computing
+[Open Access Textbook] Learn Quantum Computing Using Qiskit by IBM Quantum
+https://qiskit.org/learn/
+
+[Textbook] Quantum Computation and Quantum Information by Nielsen & Chuang
+https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
+
+[eCourse] Introduction to Quantum Computing by IBM Quantum
+Start the course ->
+
+[Open Access Textbook] Quantum Computing for the Quantum Curious
+https://link.springer.com/book/10.1007/978-3-030-61601-4
+
+IBM Quantum & Qiskit
+
+Learn About & Install Qiskit
+Prepare for the Summer School by reviewing the documentation and installing Qiskit.
+https://qiskit.org/documentation/getting_started.html
+
+IBM Quantum
+IBM offers cloud access to the most advanced quantum computers available. Learn, develop, and run programs with our quantum applications and systems.
+https://quantum-computing.ibm.com/
+
+--------------------------------------------------------------------------------------------------------
+NOTES KICKOFF:
+qiskit.org/learn
+book recommended: John watrous The Theory of Quantum Information 2018, https://cs.uwaterloo.ca/~watrous/TQI/
+
+-------------------------------------------------------------------------------------------------------------
+Recommended Reading:
+https://qiskit.org/learn/course/basics-quantum-information/
+NOTES LECTURES 1:
+ My Step:
+ 1. create git project on github
+ 2. CLone thi project to local location C:\Users\marty\Projects_All
+ 3. Create virtual env on anaconda QiskitSummer2023
+ 4. Install qiskit following https://qiskit.org/documentation/getting_started.html
+	* install qiskit
+	* intall qiskit[visualization]
+	* pip install pylatexenc
+5. Add QiskitSummer2023 env as interpereter to out project
+6.
+
+Sprawdzić te matrix str 12
