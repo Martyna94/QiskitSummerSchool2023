@@ -37,10 +37,13 @@ https://quantum-computing.ibm.com/
 NOTES KICKOFF:
 qiskit.org/learn
 book recommended: John watrous The Theory of Quantum Information 2018, https://cs.uwaterloo.ca/~watrous/TQI/
+the mahematics of quantum mechanics
+
 
 -------------------------------------------------------------------------------------------------------------
 Recommended Reading:
 https://qiskit.org/learn/course/basics-quantum-information/
+
 NOTES LECTURES 1:
  My Step:
  1. create git project on github
@@ -51,6 +54,4 @@ NOTES LECTURES 1:
 	* intall qiskit[visualization]
 	* pip install pylatexenc
 5. Add QiskitSummer2023 env as interpereter to out project
-6.
 
-Sprawdzić te matrix str 12
