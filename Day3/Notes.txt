@@ -1,0 +1,17 @@
+Lecture 3 - Entanglement in Action
+(https://www.youtube.com/watch?v=GSsElSQgMbU&list=RDCMUClBNq7mCMf5xm8baE_VMl3A&index=3)
+Recommended
+https://learn.qiskit.org/course/basics/entanglement-in-action
+
+
+Lab2
+https://qiskit.org/ecosystem/ibm-runtime/getting_started.html
+
+
+pip install qiskit-ibm-runtime
+
+
+https://qiskit.org/ecosystem/ibm-runtime/how_to/run_session.html
+
+https://github.com/Qiskit/qiskit-ibm-runtime/blob/stable/0.11/docs/tutorials/how-to-getting-started-with-estimator.ipynb
+https://github.com/Qiskit/qiskit-ibm-runtime/blob/stable/0.11/docs/tutorials/how-to-getting-started-with-sampler.ipynb

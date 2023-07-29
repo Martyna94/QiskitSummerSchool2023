@@ -1,0 +1,10 @@
+Recommended Reading:
+https://learn.qiskit.org/course/algorithms/query-algorithms
+
+https://learn.qiskit.org/course/ch-algorithms/bernstein-vazirani-algorithm
+lecture 4.2 
+GCD and Shors algorithm 
+https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm
+https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-algorithmic-foundations#cost-as-a-function-of-input-length
+
+

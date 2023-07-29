@@ -1,0 +1,5 @@
+Recommended Reading
+https://learn.qiskit.org/course/basics/quantum-circuits
+
+Question to explore:
+The Cauchy-Schwarz inequality
