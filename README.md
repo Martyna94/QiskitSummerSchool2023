@@ -1,9 +1,8 @@
 
-#Participation in Qiskit Quantum Summer School 
-##Day 1:
-###
-
-##Day4
+# Participation in Qiskit Quantum Summer School
+wstawić plik z schedulerem. Jakie były wykłądy w poszczególne dni, link do notatek
+skopiować na discordzie 
+##Lab4
 ### Lecture 4.2 includes:
 * Computing GCDs
 * Integer factorization
